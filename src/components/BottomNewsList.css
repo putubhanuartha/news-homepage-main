@@ -1,0 +1,9 @@
+.column figure img {
+	width: 130px;
+	height: 140px;
+	object-fit: cover;
+}
+.column {
+	display: flex;
+	gap: 10px;
+}
