@@ -1,7 +1,8 @@
 # Frontend Mentor Project || News Homepage
 
 # Warning !!!
-This project doesn't use best practices and tends to be disorganized. For this simple project i use bootstrap framework only for layouting and create responsive behaviour of this page. Another styling is implemented in another css file and could be very confusing. This version may deprecated and i will create another version with better flow and writing.
+This project doesn't use best practices and tends to be disorganized. For this simple project i use bootstrap framework only for layouting and create responsive behaviour of this page. Another styling is implemented in another css file and could be very confusing.  
+This version may **deprecated** and i will create another version with better flow and writing.
 
 ## Intro
 
